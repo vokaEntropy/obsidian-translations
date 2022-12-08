@@ -1,11 +1,11 @@
 {
 	"setting": {
-		"options": "Options",
-		"plugin": "Plugin",
-		"builtin-plugins": "Core plugins",
-		"plugin-options": "Plugin options",
-		"folder-path-example-placeholder": "Example: folder 1/folder 2",
-		"file-path-example-placeholder": "Example: folder/note",
+		"options": "Параметры",
+		"plugin": "Плагін",
+		"builtin-plugins": "Асноўныя плагіны",
+		"plugin-options": "Параметры плагіна",
+		"folder-path-example-placeholder": "Прыклад: тэчка 1/тэчка 2",
+		"file-path-example-placeholder": "Прыклад: тэчка/нататка",
 		"msg-restart-required": "Changing this option requires a restart to take effect.",
 		"editor": {
 			"name": "Editor",
